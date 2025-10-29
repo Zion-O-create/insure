@@ -414,6 +414,8 @@ footer > hr{
     }
     .header-mobile-btn{
         display: block;
+        color: white;
+        width: 80%;
         margin: 1rem auto;
         padding: 0.8rem 2rem;
         background: inherit;
